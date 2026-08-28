@@ -64,7 +64,7 @@ For exact reproducibility, run `sessionInfo()` after installing the above and in
 
 ## License
 
-No license file is currently included. Add a `LICENSE` file (e.g. MIT) if you intend this code to be reused or adapted by others.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Citation
 
