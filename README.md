@@ -2,6 +2,9 @@
 
 R scripts for the integrative transcriptomic analysis of Parkinson's disease across 33 GEO datasets (postmortem, iPSC, and cell-based models), supporting the manuscript submitted to *Molecular Omics*.
 
+## DOI
+https://doi.org/10.5281/zenodo.22201827
+
 ## Repository contents
 
 | Script | Purpose |
